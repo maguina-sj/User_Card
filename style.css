@@ -1,0 +1,37 @@
+*{
+    font-family: sans-serif;
+}
+
+.container {
+    height: 300px;
+    width: 600px;
+    margin-top: 40px;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.topbar {
+    background-color: darkcyan;
+    width: 600px;
+    height: 80px;
+    position: inherit;
+    top: 0px;
+}
+.position > img {
+    position: absolute;
+    top: 75px;
+    left: 20px;
+}
+.city {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    justify-content: start;
+    margin-left: 10px;
+}
+p {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
